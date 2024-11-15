@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(3, 3, 84);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.link:hover {
+    color: red;
+}
+
+.link:active {
+    color: chartreuse;
+}
+
+.link {
+    color: aqua;
+}

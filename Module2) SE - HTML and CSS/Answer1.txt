@@ -1,0 +1,22 @@
+1. Webpage - Webpage is page that contains images, text, video, audio, etc. 
+Its like a book page instead of paper, it's digital made of code
+
+2. Website - Website is all collection of Webpage. 
+All Pages create a Book similarly All Webpage create a website under domain name.
+For Example of Website - www.netflix.com, www.google.com, etc. 
+
+3. Web Browser - Web Browser is place that you can see Webpages and Website through Internet. 
+You can see anytime and anywhere (www World Wide Web). There are lots of Web Browser 
+like Google Chrome, FireFox, Microsoft Edge, Opera, etc.
+
+4. Web Server - Web Server is Server that stores all webpages and websites. For Example if i want to 
+open netflix website then i will go to browser and type www.netflix.com in google search bar then google
+chrome browser will send request to web server to show netflix website if web server will allow you
+to see netflix website then you will see otherwise no.
+
+5. HTML - HTML is Hyper Text Markup Language. If i want to make webpage that show texts, images and videos.
+I will make code that code called HTML. Using HTML code i will put images, videos, text, etc.
+
+6. CSS - CSS is Cascading Style Sheet. I known that if i put text in webpage then i will use
+HTML code but if i want to change colour of text, size of images then i will use CSS code.
+CSS help us to make a cool webpage.  
